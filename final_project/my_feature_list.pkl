@@ -1,0 +1,14 @@
+(lp0
+S'poi'
+p1
+aS'salary'
+p2
+aS'bonus'
+p3
+aS'total_payments'
+p4
+aS'long_term_incentive'
+p5
+aS'expenses'
+p6
+a.
